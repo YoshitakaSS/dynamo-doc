@@ -1,7 +1,7 @@
 name: Generate DrawIO Images
 
 env:
-  DRAW_IO_DIR: "docs/draw.io"
+  DRAW_IO_DIR: "draw.io"
 
 on:
   push:
